@@ -1,0 +1,15 @@
+C:\CPSC1012\dotnet8-demos\Assignment 3\bin\Debug\net8.0\Assignment 3.exe
+C:\CPSC1012\dotnet8-demos\Assignment 3\bin\Debug\net8.0\Assignment 3.deps.json
+C:\CPSC1012\dotnet8-demos\Assignment 3\bin\Debug\net8.0\Assignment 3.runtimeconfig.json
+C:\CPSC1012\dotnet8-demos\Assignment 3\bin\Debug\net8.0\Assignment 3.dll
+C:\CPSC1012\dotnet8-demos\Assignment 3\bin\Debug\net8.0\Assignment 3.pdb
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.AssemblyInfoInputs.cache
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.AssemblyInfo.cs
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.csproj.CoreCompileInputs.cache
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.sourcelink.json
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.dll
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\refint\Assignment 3.dll
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.pdb
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\Assignment 3.genruntimeconfig.cache
+C:\CPSC1012\dotnet8-demos\Assignment 3\obj\Debug\net8.0\ref\Assignment 3.dll
